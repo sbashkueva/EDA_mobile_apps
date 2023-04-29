@@ -44,3 +44,12 @@ The data provided can help to receive answers for the following questions:
 3. Do more expensive apps tend to receive higher rating?
 4. Does the number of reviews affect the number of installs and its ratings?
 5. What kind of apps receive more positive and negative reviews?
+
+
+## Used libraries
+* pandas
+* numpy
+* sqlite3
+* matplotlib.pyplot
+* seaborn
+* plotly.express
