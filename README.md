@@ -1,12 +1,17 @@
 # The Android App Market on Google Play
 
+
+## Project description
+We will compare around ten thousand apps on Google Play across different categories to get a comprehensive data analysis of Android app market. 
+We’ll look for insights in the data to understand popularity, pricing models, reviews for different app groups.
+The analysis is conducted using Python and SQLite.
+
+
 ## Data description
 
 Link to the Kaggle dataset: https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv
 
 The dataset for this project was found on Kaggle and provides information about Android applications on Google Play. 
-We will compare around ten thousand apps on Google Play across different categories to get a comprehensive data analysis of Android app market. 
-We’ll look for insights in the data to understand popularity, pricing models, reviews for different app groups.
 
 It consists of two files:
 1. 'googleplaystore.csv' - apps
